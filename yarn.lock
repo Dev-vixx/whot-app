@@ -7060,10 +7060,10 @@ which@^1.2.12, which@^1.2.9:
   dependencies:
     isexe "^2.0.0"
 
-whot@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/whot/-/whot-1.0.4.tgz#db26db6e03a9fb93dd0d0b74c856463832c3d4cb"
-  integrity sha512-FNlB64hOcQkg2Jk3AE0yiZWYKn5DqBMd8qV89XIRpxNeA/vNzG1fCI6puBK//wFtlrlUbXBtU1+ce5iwiWvQkw==
+whot@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/whot/-/whot-1.0.6.tgz#3e5fd3b9ab2986196bc9484a2d5d07cd7802a03d"
+  integrity sha512-O1l6RznOjRvkKUFCzS+avX4LvY4IDj2+ZK4+kkFLxNiPVMlxdJiwrvEil9LMZ/eBET1rxv1mCc/Ws0BRMOvKfg==
 
 wide-align@^1.1.0:
   version "1.1.2"
